@@ -1,24 +1,9 @@
-# README
+# Selus Front Page
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The Selus homepage was built as a test for Mondo Labs, taking a PSD file and rendering it into a funcitonal, single-page web app.
 
-Things you may want to cover:
+This is a Ruby on Rails v5 application.
 
-* Ruby version
+I utilized Bootstrap to ensure mobile-first layout, and used the Bootstrap grid system to build the layout.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Specific difficulties included using images outside of the grid system, and uploading a Rails 5 application with image assets to Heroku, as most existing documentation is meant for previous versions of Rails.
